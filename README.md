@@ -1,6 +1,6 @@
 # DI2_FastPath
 
-This repository preserves four PDFs describing DI2 entropy states and related Protocol A / FastPath records.
+Four dated Grounded DI reports document DI2 entropy readings, a reported resettling sequence, and related Protocol A and FastPath records.
 
 ## Preserved records
 
@@ -11,6 +11,6 @@ This repository preserves four PDFs describing DI2 entropy states and related Pr
 | [Scroll_143_Entropy_0049_Seal.pdf](Scroll_143_Entropy_0049_Seal.pdf) | Records System 2 at ΔH 0.0049 and System 1 at ΔH 0.0050, with trap reflex listed as none and recursion as disabled. |
 | [VaultAnchor_Offset_Certificate_0047_∆H_00047_MSW.pdf](VaultAnchor_Offset_Certificate_0047_%E2%88%86H_00047_MSW.pdf) | States an offset window of +00:47 and ΔH 0.0047. It references four other certificates or logs that are not included in this repository. |
 
-## Scope
+## Reading the reports
 
-The values, causal interpretations, and lock or certification statuses are statements in the PDFs. This repository contains no raw telemetry, execution logs, measurement procedure, or verifier to reproduce them.
+The linked PDFs are the primary source for the readings and interpretations above. Their numerical claims are historical report statements. The public repository provides the reports for inspection and does not include the underlying measurement records.
